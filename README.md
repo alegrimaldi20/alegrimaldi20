@@ -2,7 +2,7 @@
 I am a software engineer, with 5 years of experience, I am passionate about learning about technological innovation and that my work has a positive impact on people's quality of life.
 
 
-During my career I have had the opportunity to work in different market sectors such as application development for developing companies and consolidated companies, blockchain development for NFT projects and Defi projects, which has led me to learn every day about cost-efficient technologies, optimal integrations and flexible software that helps companies develop projects and enhance their scope.📱💻
+📱💻 During my career I have had the opportunity to work in different market sectors such as application development for developing companies and consolidated companies, blockchain development for NFT projects and Defi projects, which has led me to learn every day about cost-efficient technologies, optimal integrations and flexible software that helps companies develop projects and enhance their scope.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
