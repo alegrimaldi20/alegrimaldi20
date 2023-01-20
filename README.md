@@ -16,6 +16,4 @@ During my career I have had the opportunity to work in different market sectors 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">📈 My statistics:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alegrimaldi20&show_icons=true&locale=en&layout=compact" alt="alegrimaldi20" /></p>
 
