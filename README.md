@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Alejandro Grimaldi</h1>
+
 I am a software engineer 🚀 with 6 years of experience, I am passionate about learning about technological innovation and that my work has a positive impact on people's quality of life.
 
 
