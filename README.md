@@ -1,8 +1,14 @@
+## Software Developer | 6+ Years of Experience 🚀
 
-I'm a Software Developer 🚀 with 7 years of experience, I am passionate about learning about technological innovation and that my work has a positive impact on people's quality of life.
+Passionate about technological innovation and creating solutions that positively impact people's lives. With a diverse background across multiple industries, I specialize in efficient, scalable, and adaptable software development.
 
+Key Experience
 
-During my career I have had the opportunity to work in different market sectors such as application development for developing companies and consolidated companies, blockchain development for NFT projects and Defi projects, audits for blockchain projects and GameFi and DEX projects which has led me to learn every day about cost-efficient technologies, optimal integrations and flexible software that helps companies develop projects and enhance their scope.💬🖥
+- Full-Stack & Blockchain Development: Built applications for startups and enterprises, including NFT projects, DeFi, WEB3 Game, and DEX projects.
+
+- Smart Contract Audits: Conducted security audits for blockchain-based projects to ensure robustness and reliability.
+
+- Optimized Solutions: Focused on cost-efficient technologies, seamless integrations, and flexible architectures to help businesses scale effectively.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
