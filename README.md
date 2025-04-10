@@ -12,7 +12,6 @@ Key Experience
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/luisgrimaldim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisgrimaldim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luisalejandrogrimaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisalejandrogrimaldi" height="30" width="40" /></a>
 </p>
 
