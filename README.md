@@ -4,9 +4,9 @@ Passionate about technological innovation and creating solutions that positively
 
 Key Experience
 
-- Full-Stack & Blockchain Development: Built applications for startups and enterprises, including NFT and Staking projects, DeFi, Web3 Game, and DEX projects
+- Full-Stack & Blockchain Development: Built applications for startups and enterprises, including NFT and Staking projects, DeFi, Web3 Game, and DEX projects.
 
-- Smart Contract Audits: Conducted security audits for blockchain-based projects to ensure robustness and reliability
+- Smart Contract Audits: Conducted security audits for blockchain-based projects to ensure robustness and reliability.
 
 - Optimized Solutions: Focused on cost-efficient technologies, seamless integrations, and flexible architectures to help businesses scale effectively.
 
