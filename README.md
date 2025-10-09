@@ -8,7 +8,7 @@ Key Experience
 
 - Smart Contract Audits: Conducted security audits for blockchain-based projects to ensure robustness and reliability.
 
-- Optimized Solutions: Focused on cost-efficient technologies, seamless integrations, and flexible architectures to help businesses scale effectively
+- Optimized Solutions: Focused on cost-efficient technologies, seamless integrations, and flexible architectures to help businesses scale effectively.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
