@@ -1,4 +1,4 @@
-## Software Developer | 7+ Years of Experience 🚀
+## Software Developer | 8+ Years of Experience 🚀
 
 Passionate about technological innovation and creating solutions that positively impact people's lives. With a diverse background across multiple industries, I specialize in efficient, scalable, and adaptable software development.
 
