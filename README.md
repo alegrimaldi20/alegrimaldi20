@@ -1,6 +1,6 @@
 ## Software Developer | 8+ Years of Experience 🚀
 
-Passionate about technological innovation and creating solutions that positively impact people's lives. With a diverse background across multiple industries, I specialize in efficient, scalable, and adaptable software development
+Passionate about technological innovation and creating solutions that positively impact people's lives. With a diverse background across multiple industries, I specialize in efficient, scalable, and adaptable software development.
 
 
 Key Experience
@@ -9,7 +9,7 @@ Key Experience
 
 - Smart Contract Audits: Conducted security audits for blockchain-based projects to ensure robustness and reliability.
 
-- Optimized Solutions: Focused on cost-efficient technologies, seamless integrations, and flexible architectures to help businesses scale effectively.
+- Optimized Solutions: Focused on cost-efficient technologies, seamless integrations, and flexible architectures to help businesses scale effectively
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
